@@ -5,6 +5,7 @@ TagManager:
   serializedVersion: 2
   tags:
   - mainCar
+  - Ground
   layers:
   - Default
   - TransparentFX
@@ -47,6 +48,9 @@ TagManager:
     locked: 0
   - name: Way
     uniqueID: 3199269365
+    locked: 0
+  - name: CarButNpc
+    uniqueID: 569587855
     locked: 0
   - name: Car
     uniqueID: 2551878627

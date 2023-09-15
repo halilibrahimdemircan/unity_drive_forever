@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 0b46a45bf5ae34113a0df933ca4a52a4
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - random_car_npc: {fileID: 8700176572087886831, guid: 0c0f3109a1b304166b68c2e6253db33f, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
