@@ -3,7 +3,8 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - mainCar
   layers:
   - Default
   - TransparentFX
@@ -40,4 +41,16 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 2220047035
+    locked: 0
+  - name: Way
+    uniqueID: 3199269365
+    locked: 0
+  - name: Car
+    uniqueID: 2551878627
+    locked: 0
+  - name: Vinyet
+    uniqueID: 2643338423
     locked: 0

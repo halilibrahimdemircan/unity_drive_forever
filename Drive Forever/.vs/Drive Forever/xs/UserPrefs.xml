@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{5495DB60-7601-EB03-F766-481F7EA060F6}|">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="ae82e3e0-4839-4223-a154-d2dd9fdaee01" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/WayScript.cs">
+    <Files>
+      <File FileName="Assets/Scripts/mainCar.cs" Line="16" Column="21" />
+      <File FileName="Assets/Scripts/WayScript.cs" Line="12" Column="42" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Drive Forever" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
